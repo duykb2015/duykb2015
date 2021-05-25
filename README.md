@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... everything
 - 🌱 I’m currently learning ... golang
 - 💞️ I’m looking to collaborate on ... nothing...
-- 📫 How to reach me ...
+- 📫 How to reach me ... no, you can not
 
 <!---
 duykb2015/duykb2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
