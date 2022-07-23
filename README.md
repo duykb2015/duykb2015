@@ -5,7 +5,7 @@
 
 ## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duykb2015&theme=cobalt)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duykb2015&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duykb2015&layout=compact&theme=cobalt)
 
 ## My Skill:
 Check my cv to see what I have: http://duykb2015.github.io
