@@ -1,6 +1,15 @@
+#Basic info
 - 👋 Hi, I’m @duykb2015
 - 🌱 I’m currently learning docker
 - 📫 How to reach me: contact me via duyx4541@gmail.com
+
+##Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=duykb2015&theme=cobalt)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duykb2015&layout=compact)
+
+##My Skill:
+Check my cv to see what I have: http://duykb2015.github.io
+
 <!---
 - 👀 I’m interested in ... everything
 
