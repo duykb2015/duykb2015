@@ -1,6 +1,6 @@
 # Basic info
-- 👋 Hi, I’m @duykb2015
-- 🌱 I’m currently learning docker
+- 👋 Hi, I'm @duykb2015
+- 🌱 I'm currently learning to be a backend developer
 - 📫 How to reach me: contact me via duyx4541@gmail.com
 
 ## Github Stats:
